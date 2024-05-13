@@ -1,5 +1,4 @@
 # Portfolio
 Author-Mursleen Mushtaq
-This is My Portfolio
-Create with different tools
-using tools Html, CSS, BootStrap, Javascript
+
+"This is my portfolio created using various tools such as HTML, CSS, Bootstrap, and JavaScript."
